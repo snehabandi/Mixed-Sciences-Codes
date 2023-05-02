@@ -1,4 +1,4 @@
-# CPP, Java, Assembly codes
+# Codes
 These are some simple starter codes in different domains and subjects, starting from 'Object Oriented Programming', 'Data Structures', 'Computer Graphics' and 'Microprocessor and its architecture' and languages like C/C++, Assembly, Java.
 
 ## Content
